@@ -7,12 +7,12 @@
  文件目录
 
 ```
-servers.py 						服务脚本
+servers.py 			服务脚本
 
 request_params.log 		访问日志
 
 	Templates   					模版目录
-	index.html 						模版文件
+	index.html 					模版文件
 ```
 
 使用chrome插件SingleFile下载要复制的网页，保存为index.html放至Templates目录下
